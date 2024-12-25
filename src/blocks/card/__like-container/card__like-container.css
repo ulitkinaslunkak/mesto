@@ -1,0 +1,13 @@
+.card__like-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  margin-top: -3px;
+  margin-right: 20px;
+  padding: 0;
+  align-self: start;
+  order: 3;
+}
